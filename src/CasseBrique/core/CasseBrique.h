@@ -2,7 +2,7 @@
 #define _CASSEBRIQUE_H
 
 class CasseBrique {
-    
-}
+
+};
 
 #endif
