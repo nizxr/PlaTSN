@@ -7,7 +7,13 @@
  * @class Classe Balle
  */
 class Balle {
-private:
+public:
+    /// @brief Constructeur
+    Balle();
+
+    /// @brief Rayon
+    float r;
+
     ///@brief Position de la balle.
     Complex position;
 

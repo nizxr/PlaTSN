@@ -7,11 +7,20 @@
  * 
  */
 class Planche {
-private:
+public:
+    int getTaille() const;
+    Complex getPosMin() const;
+    Complex getPostMax() const;
+
+    /// @brief Constructeur
+    Planche();
+
     ///@brief Coordonnée debut de la planche selon l'axe X.
     Complex positionXmin;
+
     /// @brief Coordonnée fin de la planche selon l'axe X.
     Complex positionXmax;
+
     /// @brief Taille de la planche.
     float taille;
 };

@@ -1,24 +1,22 @@
 #include "Complex.h"
 
-Complex Complex::make_complex(float a, float b) const {
-    Complex c;
-    c.x = a;
-    c.y = b;
-    return c;
+Complex::Complex(float a, float b) {
+    x = a;
+    y = b;
 }
 
 Complex Complex::operator+(const Complex &c) const {
-    return Complex::make_complex(x + c.x, y + c.y);
+    return Complex(x + c.x, y + c.y);
 }
 
 Complex Complex::operator-(const Complex &c) const {
-    return Complex::make_complex(x - c.x, y - c.y);
+    return Complex(x - c.x, y - c.y);
 }
 
 Complex Complex::operator*(const Complex &c) const {
-    return Complex::make_complex(x * c.x - y * c.y, y * c.x + x * c.y);
+    return Complex(x * c.x - y * c.y, y * c.x + x * c.y);
 }
 
 Complex Complex::operator*(float lambda) const {
-    return Complex::make_complex(lambda * x, lambda * y);
+    return Complex(lambda * x, lambda * y);
 }
