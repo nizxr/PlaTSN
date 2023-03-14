@@ -45,7 +45,7 @@ public:
     /// @param col2 
     /// @param lig2 
     bool paire(int col1, int lig1, int col2, int lig2);
-
+    
 };
 
 #endif

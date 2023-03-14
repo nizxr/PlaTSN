@@ -1,0 +1,156 @@
+question,Choix_001,Choix_002,choix_003,Choix_004,reponse,type,difficulte
+2+2=?,4,5,3,8,4,Culture Generale,simple
+Quel est le point d'ébullition de l'eau? (en degres celsius),100,0,10,1000,100,Culture Generale,simple
+Qui a peint la Joconde?,Michel-Ange,Leonardo Di Caprio,Sandro Botticelli,Leonardo Da Vinci,Leonardo Da Vinci,Culture Generale,simple
+En quelle année Christophe Colomb découvrit-il l'Amérique?,1492,1592,1703,1540,1492,Culture Generale,simple
+Qui a inventé la première l'ampoule?,Thomas Edison,Graham Bell,Abraham Spanel,Leonardo Da Vinci,Thomas Edison,Culture Generale,simple
+La Coupe du Monde de football se dispute tous les _ ans.,2,4,5,6,4,Culture Generale,moyenne
+Qui a sculpté Le Penseur?,Michel-Ange,Frédéric-Auguste Bartholdi,Auguste Rodin,Jérôme Duquesnoy,Auguste Rodin,Culture Generale,moyenne
+En quelle année la 1ere guerre mondiale a commencé?,1924,1818,1914,1918,1914,Culture Generale,moyenne
+En quelle année la révolution française a commencé?,1809,1799,1789,1779,1789,Culture Generale,moyenne
+Qui est considéré par beaucoup comme le père fondateur de la philosophie occidentale?,Aristote,Diogene,Platon,Socrate,Socrate,Culture Generale,moyenne
+Quelle langue est la plus parlé au monde?,Hindi,Anglais,Mandarin,Espagnol,Anglais,Culture Generale,difficil
+Quelle est la capitale de la France?,Lyon,Marseille,Paris,Strasbourg,Paris,Capitales de pays,simple
+Quelle est la capitale de l'Espagne?,Barcelone,Madrid,Andalousie,Cordoue,Madrid,Capitales de pays,simple
+Quelle est la capitale de l'Algerie?,Alger,Annaba,Oran,Tlemcen,Alger,Capitales de pays,simple
+Quelle est la capitale du Maroc?,Rabat,Casablanca,Meknes,Fes,Rabat,Capitales de pays,simple
+Quelle est la capitale du Portugal?,Porto,Faro,Evora,Lisbon,Lisbon,Capitales de pays,simple
+Quelle est la capitale de la Tunisie?,Hammamet,Kairouan,Tunis,Sousse,Tunis,Capitales de pays,simple
+Quelle est la capitale de la Suisse?,Berne,Geneve,Lugano,Zurich,Berne,Capitales de pays,simple
+Quelle est la capitale de l'Italie?,Venice,Milan,Turin,Rome,Rome,Capitales de pays,simple
+Quelle est la capitale de l'Allemagne?,Frankfurt,Berlin,Hamburg,Munich,Berlin,Capitales de pays,simple
+Quelle est la capitale de l'Angleterre?,Manchester,Bournmouth,Londres,Cardiff,Londres,Capitales de pays,simple
+Quelle est la capitale de la Belgique?,Leuven,Mechelen,Liege,Brusssels,Brussels,Capitales de pays,simple
+Quelle est la capitale de la Grece?,Athenes,Tripolis,Thessaloniki,Patras,Athenes,Capitales de pays,simple
+Quelle est la capitale des Etats Unis d'Amerique?,New York,Washington,Los Angeles,Chicago,Washington,Capitales de pays,simple
+Quelle est la capitale de l'Australie?,Sidney,Melbourne,Canberra,Adelaide,Canberra,Capitales de pays,simple
+Quelle est la capitale du Bresil?,Rio de Janeiro,Manaus,Sao Paulo,Brasilia,Brasilia,Capitales de pays,simple
+Quelle est la capitale du Canada?,Ottawa,Toronto,Montreal,Vancouver,Ottawa,Capitales de pays,simple
+Quelle est la capitale du Canada?,Shenzhen,Beijing,Shangai,Chongqing,Beijing,Capitales de pays,simple
+Quelle est la capitale de la Coree du Sud?,Gyeongju-si,Gwangju,Seoul,Busan,Seoul,Capitales de pays,simple
+Quelle est la capitale de l'Inde?,Bengaluru,Jaipur,Mumbai,New Delhi,New Delhi,Capitales de pays,simple
+Quelle est la capitale de l'Israel?,Jerusalem,Beer-Sheva,Tel-Aviv,Haifa,Jerusalem,Capitales de pays,simple
+Quelle est la capitale du Japon?,Kobe,Tokyo,Osaka,Kyoto,Tokyo,Capitales de pays,simple
+Quelle est la capitale du Mexique?,Merida,Oaxaca,Mexico City,Guadalajara,Mexico City,Capitales de pays,simple
+Quelle est la capitale de la Pologne?,Warsaw,Cracow,Poznan,Lublin,Warsaw,Capitales de pays,simple
+Quelle est la capitale de la Russie?,Saint Petersbourg,Moscou,Kazan,Samara,Moscou,Capitales de pays,simple
+Quelle est la capitale du Sénégal?,Saint Louis,Tambacounda,Dakar,Kaolack,Dakar,Capitales de pays,simple
+Quelle est la capitale de la Turquie?,Izmir,Antalya,Istanbul,Ankara,Ankara,Capitales de pays,simple
+Quelle est la capitale de la Croatie?,Bjelovar,Zagreb,Karlovac,Osijek,Zagreb,Capitales de pays,moyenne
+Quelle est la capitale de la Suede?,Gothenburg,Malmo,Stockholm,Uppsala,Stockholm,Capitales de pays,moyenne
+Quelle est la capitale de la Norvege?,Bergen,Kristinsand,Stavanger,Oslo,Oslo,Capitales de pays,moyenne
+Quelle est la capitale de l'Arabie Saoudite?,Riyadh,Mecca,Jeddah,Buraydah,Riyadh,Capitales de pays,moyenne
+Quelle est la capitale du Chili?,Valparaiso,Santiago,Antofagasta,La Serena,Santiago,Capitales de pays,moyenne
+Quelle est la capitale de la Colombie?,Cali,Medellín,Bogotá,Cartagena,Bogotá,Capitales de pays,moyenne
+Quelle est la capitale de la Cote d'Ivoire?,Bouake,Man,Abidjan,Yamoussoukro,Yamoussoukro,Capitales de pays,moyenne
+Quelle est la capitale du Danemark?,Copenhagen,Aarhus,Helsingør,Odense,Copenhagen,Capitales de pays,moyenne
+Quelle est la capitale de l'Egypte?,Alexandria,Cairo,Luxor,Giza,Cairo,Capitales de pays,moyenne
+Quelle est la capitale de l'Equateur?,Loja,Guayaquil,Quito,Cuenca,Quito,Capitales de pays,moyenne
+Quelle est la capitale de l'Islande?,Akureyri,Reykjanesbær,Borgarnes,Reykjavík,Reykjavík,Capitales de pays,moyenne
+Quelle est la capitale de la Jamaique?,Kingston,Montego Bay,Portmore,Old Harbour,Kingston,Capitales de pays,moyenne
+Quelle est la capitale du Liban?,Sidon,Beirut,Baalbek,Byblos,Beirut,Capitales de pays,moyenne
+Quelle est la capitale du Mali?,Timbuktu,Gao,Bamako,Djenne,Bamako,Capitales de pays,moyenne
+Quelle est la capitale du Myanmar?,Moulmein,Mandalay,Rangoon,Naypyidaw,Naypyidaw,Capitales de pays,moyenne
+Quelle est la capitale du Pakistan?,Islamabad,Karachi,Lahore,Rawalpindi,Islamabad,Capitales de pays,moyenne
+Quelle est la capitale du Pays Bas?,Rotterdam,Utrecht,Amsterdam,Haarlem,Amsterdam,Capitales de pays,moyenne
+Quelle est la capitale du Perou?,Iquitos,Huancayo,Cusco,Lima,Lima,Capitales de pays,moyenne
+Quelle est la capitale des Philippines?,Manila,Davao City,Cebu City,Bacolod,Manila,Capitales de pays,moyenne
+Quelle est la capitale du Qatar?,Al Wakrah,Doha,Mesaieed,Al Khor,Doha,Capitales de pays,moyenne
+Quelle est la capitale du Singapour?,Changi Village,Jurong East,Singapour,Bukit Panjang,Singapour,Capitales de pays,moyenne
+Quelle est la capitale de l'Uruguay?,Artigas,Paysandú,Maldonado,Montevideo,Montevideo,Capitales de pays,moyenne
+Quelle est la capitale du Venezuela?,Caracas,Cumana,Guayana City,Valencia,Caracas,Capitales de pays,moyenne
+Quelle est la capitale du Vietnam?,Ho Chi Minh City,Hanoi,Da Nang,Dalat,Hanoi,Capitales de pays,moyenne
+Quelle est la capitale de l'Ouzbekistan?,Samarkand,Bukhara,Khiva,Tashkent,Tashkent,Capitales de pays,difficil
+Quelle est la capitale de l'Autriche?,Vienne,Graz,Innsbruck,Salzburg,Vienne,Capitales de pays,difficil
+Quelle est la capitale de l'Albanie?,Berat,Tirana,Durrës,Gjirokaster,Tirana,Capitales de pays,difficil
+Quelle est la capitale du Cambodge?,Krong Battambang,Preah Sihanouk,Phnom Penh,Krong Siem Reap,Phnom Penh,Capitales de pays,difficil
+Quelle est la capitale de la Coree du Nord?,Kaesŏng,Wonsan,Pyongyang,Sinuiju,Pyongyang,Capitales de pays,difficil
+Quelle est la capitale de Cuba?,Santiago de Cuba,Cienfuegos,Trinidad,Havana,Havana,Capitales de pays,difficil
+Quelle est la capitale des Emirats Arabes Unis?,Abu Dhabi,Dubai,Al Ain,Sharjah,Abu Dhabi,Capitales de pays,difficil
+Quelle est la capitale du Ghana?,Tamale,Accra,Takoradi,Cape Coast,Accra,Capitales de pays,difficil
+Quelle est la capitale de la Guinee?,Kindia,Kissidougou,Conakry,Kankan,Conakry,Capitales de pays,difficil
+Quelle est la capitale de la Libye?,Benghazi,Zuwara,Al Bayda,Tripoli,Tripoli,Capitales de pays,difficil
+Quelle est la capitale du Madagascar?,Antananarivo,Antsiranana,Toamasina,Mahajanga,Antananarivo,Capitales de pays,difficil
+Quelle est la capitale de la Malaisie?,George Town,Territoire fédéral de Kuala Lumpur,Ipoh,Malacca,Territoire fédéral de Kuala Lumpur,Capitales de pays,difficil
+Quelle est la capitale de la Mongolie?,Choibalsan,Murun,Ulaanbaatar,Darkhan,Ulaanbaatar,Capitales de pays,difficil
+Quelle est la capitale de la Montenegro?,Tivat,Budva,Herceg Novi,Podgorica,Podgorica,Capitales de pays,difficil
+Quelle est la capitale de l'Ouganda?,Kampala,Entebbe,Gulu,Lira,Kampala,Capitales de pays,difficil
+Quelle est la capitale de la Republique Tcheque?,Liberec,Prague,Brno,Ostrava,Prague,Capitales de pays,difficil
+Quelle est la capitale de la Serbie?,Niš,Kragujevac,Belgrade,Novi Sad,Belgrade,Capitales de pays,difficil
+Quelle est la capitale du Soudan?,Omdurman,Nyala,El Obeid,Khartoum,Khartoum,Capitales de pays,difficil
+Quelle est la capitale du Zimbabwe?,Harare,Bulawayo,Chinhoyi,Mutare,Harare,Capitales de pays,difficil
+Quel est le drapeau de la France?,drapeaux/Russie.png,drapeaux/Pays Bas.png,drapeaux/France.png,drapeaux/Croatie.png,drapeaux/France.png,Drapeaux de pays,facil
+Quel est le drapeau de l'Espagne?,drapeaux/Espagne.png,drapeaux/Allemagne.png,drapeaux/Belgique.png,drapeaux/Croatie.png,drapeaux/Espagne.png,Drapeaux de pays,facil
+Quel est le drapeau de l'Algerie?,drapeaux/Italie.png,drapeaux/Algerie.png,drapeaux/France.png,drapeaux/Portugal.png,drapeaux/Algerie.png,Drapeaux de pays,facil
+Quel est le drapeau de l'Allemagne?,drapeaux/Allemagne.png,drapeaux/Belgique.png,drapeaux/Espagne.png,drapeaux/Jamaique.png,drapeaux/Allemagne.png,Drapeaux de pays,facil
+Quel est le drapeau de l'Angleterre?,drapeaux/Norvege.png,drapeaux/Islande.png,drapeaux/Angleterre.png,drapeaux/Grece.png,drapeaux/Angleterre.png,Drapeaux de pays,facil
+Quel est le drapeau du Portugal?,drapeaux/Maroc.png,drapeaux/Italie.png,drapeaux/Mexique.png,drapeaux/Portugal.png,drapeaux/Portugal.png,Drapeaux de pays,facil
+Quel est le drapeau du Japon?,drapeaux/Pologne.png,drapeaux/Japon.png,drapeaux/Tunisie.png,drapeaux/Suisse.png,drapeaux/Japon.png,Drapeaux de pays,facil
+Quel est le drapeau de l'Argentine?,drapeaux/Argentine.png,drapeaux/Israel.png,drapeaux/Luxembourg.png,drapeaux/Luxembourg.png,drapeaux/Argentine.png,Drapeaux de pays,facil
+Quel est le drapeau du Japon?,drapeaux/Pologne.png,drapeaux/Japon.png,drapeaux/Tunisie.png,drapeaux/Suisse.png,drapeaux/Japon.png,Drapeaux de pays,facil
+Quel est le drapeau de l'Australie?,drapeaux/Islande.png,drapeaux/Australie.png,drapeaux/USA.png,drapeaux/Suisse.png,drapeaux/Australie.png,Drapeaux de pays,facil
+Quel est le drapeau du Bresil?,drapeaux/Pologne.png,drapeaux/Japon.png,drapeaux/Tunisie.png,drapeaux/Suisse.png,drapeaux/Bresil.png,Drapeaux de pays,facil
+Quel est le drapeau de la Belgique?,drapeaux/Allemagne.png,drapeaux/Vietnam.png,drapeaux/Belgique.png,drapeaux/Danemark.png,drapeaux/Belgique.png,Drapeaux de pays,facil
+Quel est le drapeau du Canada?,drapeaux/Danemark.png,drapeaux/Pologne.png,drapeaux/Belgique.png,drapeaux/Canada.png,drapeaux/Canada.png,Drapeaux de pays,facil
+Quel est le drapeau de la Chine?,drapeaux/Chine.png,drapeaux/Pologne.png,drapeaux/Suisse.png,drapeaux/Tunisie.png,drapeaux/Chine.png,Drapeaux de pays,facil
+Quel est le drapeau de la Coree du Sud?,drapeaux/Grece.png,drapeaux/Coree du sud.png,drapeaux/Israel.png,drapeaux/Turquie.png,drapeaux/Coree du sud.png,Drapeaux de pays,facil
+Quel est le drapeau de la Grece?,drapeaux/Grece.png,drapeaux/Suede.png,drapeaux/Luxembourg.png,drapeaux/Argentine.png,drapeaux/Grece.png,Drapeaux de pays,facil
+Quel est le drapeau de l'Inde?,drapeaux/Portugal.png,drapeaux/Inde.png,drapeaux/Italie.png,drapeaux/Algerie.png,drapeaux/Inde.png,Drapeaux de pays,facil
+Quel est le drapeau de l'Israel?,drapeaux/Argentine.png,drapeaux/Grece.png,drapeaux/Islande.png,drapeaux/Israel.png,drapeaux/Israel.png,Drapeaux de pays,facil
+Quel est le drapeau de l'Italie?,drapeaux/Italie.png,drapeaux/Portugal.png,drapeaux/Algerie.png,drapeaux/Mexique.png,drapeaux/Italie.png,Drapeaux de pays,facil
+Quel est le drapeau du Maroc?,drapeaux/Canada.png,drapeaux/Suisse.png,drapeaux/Vietnam.png,drapeaux/Maroc.png,drapeaux/Maroc.png,Drapeaux de pays,facil
+Quel est le drapeau du Mexique?,drapeaux/Mexique.png,drapeaux/Inde.png,drapeaux/Senegal.png,drapeaux/Egypte.png,drapeaux/Mexique.png,Drapeaux de pays,facil
+Quel est le drapeau de la Norvege?,drapeaux/Coree du sud.png,drapeaux/Norvege.png,drapeaux/Angleterre.png,drapeaux/Suede.png,drapeaux/Norvege.png,Drapeaux de pays,facil
+Quel est le drapeau du Pays Bas?,drapeaux/Russie.png,drapeaux/Norvege.png,drapeaux/Pays Bas.png,drapeaux/France.png,drapeaux/Pays Bas.png,Drapeaux de pays,facil
+Quel est le drapeau de la Pologne?,drapeaux/Chine.png,drapeaux/Canada.png,drapeaux/Turquie.png,drapeaux/Pologne.png,drapeaux/Pologne.png,Drapeaux de pays,facil
+Quel est le drapeau de la Russie?,drapeaux/Russie.png,drapeaux/Coree du sud.png,drapeaux/Pays Bas.png,drapeaux/France.png,drapeaux/Russie.png,Drapeaux de pays,facil
+Quel est le drapeau du Senegal?,drapeaux/Portugal.png,drapeaux/Senegal.png,drapeaux/Mexique.png,drapeaux/Belgique.png,drapeaux/Senegal.png,Drapeaux de pays,facil
+Quel est le drapeau de la Suede?,drapeaux/Islande.png,drapeaux/Venezuela.png,drapeaux/Suede.png,drapeaux/Ukraine.png,drapeaux/Suede.png,Drapeaux de pays,facil
+Quel est le drapeau de la Suisse?,drapeaux/Canada.png,drapeaux/Danemark.png,drapeaux/Angleterre.png,drapeaux/Suisse.png,drapeaux/Suisse.png,Drapeaux de pays,facil
+Quel est le drapeau de la Tunisie?,drapeaux/Tunisie.png,drapeaux/Canada.png,drapeaux/Turquie.png,drapeaux/Maroc.png,drapeaux/Tunisie.png,Drapeaux de pays,facil
+Quel est le drapeau de la Turquie?,drapeaux/Tunisie.png,drapeaux/Turquie.png,drapeaux/Chine.png,drapeaux/Allemagne.png,drapeaux/Turquie.png,Drapeaux de pays,facil
+Quel est le drapeau de l'Ukraine?,drapeaux/Espagne.png,drapeaux/Belgique.png,drapeaux/Ukraine.png,drapeaux/Allemagne.png,drapeaux/Ukraine.png,Drapeaux de pays,facil
+Quel est le drapeau des Etats Unis d'Amerique?,drapeaux/Australie.png,drapeaux/Grece.png,drapeaux/Islande.png,drapeaux/USA.png,drapeaux/USA.png,Drapeaux de pays,facil
+Quel est le drapeau de l'Arabie Saoudite?,drapeaux/Pakistan.png,drapeaux/Libye.png,drapeaux/Emirats arabes unis.png,drapeaux/Arabie Saoudite.png,drapeaux/Arabie Saoudite.png,Drapeaux de pays,moyenne
+Quel est le drapeau du Chili?,drapeaux/Republique Tcheque.png,drapeaux/Chili.png,drapeaux/Malaisie.png,drapeaux/Philippines.png,drapeaux/Chili.png,Drapeaux de pays,moyenne
+Quel est le drapeau de la Colombie?,drapeaux/Equateur.png,drapeaux/Ouganda.png,drapeaux/Colombie.png,drapeaux/Myanmar.png,drapeaux/Colombie.png,Drapeaux de pays,moyenne
+Quel est le drapeau de la Cote d'Ivoire?,drapeaux/Cote d'Ivoire.png,drapeaux/Guinee.png,drapeaux/Italie.png,drapeaux/Mali.png,drapeaux/Cote d'Ivoire.png,Drapeaux de pays,moyenne
+Quel est le drapeau de la Croatie?,drapeaux/Uruguay.png,drapeaux/Croatie.png,drapeaux/Serbie.png,drapeaux/Cambodge.png,drapeaux/Croatie.png,Drapeaux de pays,moyenne
+Quel est le drapeau de l'Equateur?,drapeaux/Equateur.png,drapeaux/Ouganda.png,drapeaux/Colombie.png,drapeaux/Allemagne.png,drapeaux/Equateur.png,Drapeaux de pays,moyenne
+Quel est le drapeau du Liban?,drapeaux/Autriche.png,drapeaux/Peru.png,drapeaux/Egypte.png,drapeaux/Liban.png,drapeaux/Liban.png,Drapeaux de pays,moyenne
+Quel est le drapeau du Myanmar?,drapeaux/Ghana.png,drapeaux/Mali.png,drapeaux/Myanmar.png,drapeaux/Liban.png,drapeaux/Myanmar.png,Drapeaux de pays,moyenne
+Quel est le drapeau du Pakistan?,drapeaux/Pakistan.png,drapeaux/Libye.png,drapeaux/Arabie Saoudite.png,drapeaux/Algerie.png,drapeaux/Pakistan.png,Drapeaux de pays,moyenne
+Quel est le drapeau du Perou?,drapeaux/Autriche.png,drapeaux/Peru.png,drapeaux/Singapour.png,drapeaux/Canada.png,drapeaux/Peru.png,Drapeaux de pays,moyenne
+Quel est le drapeau des Philippines?,drapeaux/Republique Tcheque.png,drapeaux/Serbie.png,drapeaux/Philippines.png,drapeaux/Chili.png,drapeaux/Philippines.png,Drapeaux de pays,moyenne
+Quel est le drapeau du Qatar?,drapeaux/Emirats arabes unis.png,drapeaux/Madagascar.png,drapeaux/Pakistan.png,drapeaux/Qatar.png,drapeaux/Qatar.png,Drapeaux de pays,moyenne
+Quel est le drapeau du Singapour?,drapeaux/Singapour.png,drapeaux/Autriche.png,drapeaux/Pologne.png,drapeaux/Liban.png,drapeaux/Singapour.png,Drapeaux de pays,moyenne
+Quel est le drapeau de l'Uruguay?,drapeaux/Argentine.png,drapeaux/Uruguay.png,drapeaux/Chili.png,drapeaux/Grece.png,drapeaux/Uruguay.png,Drapeaux de pays,moyenne
+Quel est le drapeau de l'Afrique du Sud?,drapeaux/Italie.png,drapeaux/Afrique du Sud.png,drapeaux/France.png,drapeaux/Portugal.png,drapeaux/Afrique du Sud.png,Drapeaux de pays,moyenne
+Quel est le drapeau du Danemark?,drapeaux/Islande.png,drapeaux/Suede.png,drapeaux/Danemark.png,drapeaux/Jamaique.png,drapeaux/Danemark.png,Drapeaux de pays,moyenne
+Quel est le drapeau de l'Egypte?,drapeaux/Israel.png,drapeaux/Inde.png,drapeaux/Mexique.png,drapeaux/Egypte.png,drapeaux/Egypte.png,Drapeaux de pays,moyenne
+Quel est le drapeau de l'Islande?,drapeaux/Australie.png,drapeaux/Pays Bas.png,drapeaux/Islande.png,drapeaux/Angleterre.png,drapeaux/Inde.png,Drapeaux de pays,moyenne
+Quel est le drapeau de la Jamaique?,drapeaux/Afrique du Sud.png,drapeaux/Jamaique.png,drapeaux/Bresil.png,drapeaux/Angleterre.png,drapeaux/Jamaique.png,Drapeaux de pays,moyenne
+Quel est le drapeau du Luxembourg?,drapeaux/Russie.png,drapeaux/France.png,drapeaux/Luxembourg.png,drapeaux/Argentine.png,drapeaux/Luxembourg.png,Drapeaux de pays,moyenne
+Quel est le drapeau du Palestine?,drapeaux/Madagascar.png,drapeaux/Palestine.png,drapeaux/Emirats arabes unis.png,drapeaux/Soudan.png,drapeaux/Palestine.png,Drapeaux de pays,moyenne
+Quel est le drapeau du Venezuela?,drapeaux/Venezuela.png,drapeaux/Pays Bas.png,drapeaux/Espagne.png,drapeaux/Russie.png,drapeaux/Venezuela.png,Drapeaux de pays,moyenne
+Quel est le drapeau du Vietnam?,drapeaux/Maroc.png,drapeaux/Vietnam.png,drapeaux/Senegal.png,drapeaux/Chine.png,drapeaux/Vietnam.png,Drapeaux de pays,moyenne
+Quel est le drapeau du Mali?,drapeaux/Mali.png,drapeaux/Guinee.png,drapeaux/Zimbabwe.png,drapeaux/Senegal.png,drapeaux/Mali.png,Drapeaux de pays,moyenne
+Quel est le drapeau de la Guinee?,drapeaux/Mali.png,drapeaux/Italie.png,drapeaux/Guinee.png,drapeaux/Senegal.png,drapeaux/Guinee.png,Drapeaux de pays,difficil
+Quel est le drapeau du Soudan?,drapeaux/Palestine.png,drapeaux/Soudan.png,drapeaux/Libye.png,drapeaux/Emirats arabes unis.png,drapeaux/Soudan.png,Drapeaux de pays,difficil
+Quel est le drapeau de l'Albanie?,drapeaux/Maroc.png,drapeaux/Liban.png,drapeaux/Albanie.png,drapeaux/Autriche.png,drapeaux/Albanie.png,Drapeaux de pays,difficil
+Quel est le drapeau de l'Autriche?,drapeaux/Peru.png,drapeaux/Singapour.png,drapeaux/Liban.png,drapeaux/Autriche.png,drapeaux/Autriche.png,Drapeaux de pays,difficil
+Quel est le drapeau du Cambodge?,drapeaux/Cambodge.png,drapeaux/Croatie.png,drapeaux/Coree du Nord.png,drapeaux/Serbie.png,drapeaux/Cambodge.png,Drapeaux de pays,difficil
+Quel est le drapeau de la Coree du nord?,drapeaux/Croatie.png,drapeaux/Serbie.png,drapeaux/Cuba.png,drapeaux/Coree du Nord.png,drapeaux/Coree du Nord.png,Drapeaux de pays,difficil
+Quel est le drapeau du Cuba?,drapeaux/Philippines.png,drapeaux/Soudan.png,drapeaux/Cuba.png,drapeaux/Zimbabwe.png,drapeaux/Cuba.png,Drapeaux de pays,difficil
+Quel est le drapeau des Emirats Arabes Unis?,drapeaux/Palestine.png,drapeaux/Soudan.png,drapeaux/Libye.png,drapeaux/Emirats arabes unis.png,drapeaux/Emirats arabes unis.png,Drapeaux de pays,difficil
+Quel est le drapeau du Ghana?,drapeaux/Mali.png,drapeaux/Ghana.png,drapeaux/Espagne.png,drapeaux/Senegal.png,drapeaux/Ghana.png,Drapeaux de pays,difficil
+Quel est le drapeau de la Libye?,drapeaux/Libye.png,drapeaux/Soudan.png,drapeaux/Palestine.png,drapeaux/Ouganda.png,drapeaux/Libye.png,Drapeaux de pays,difficil
+Quel est le drapeau du Madagascar?,drapeaux/Libye.png,drapeaux/Madagascar.png,drapeaux/Palestine.png,drapeaux/Ouganda.png,drapeaux/Madagascar.png,Drapeaux de pays,difficil
+Quel est le drapeau de la Malaisie?,drapeaux/Uruguay.png,drapeaux/USA.png,drapeaux/Singapour.png,drapeaux/Malaisie.png,drapeaux/Malaisie.png,Drapeaux de pays,difficil
+Quel est le drapeau de la Mongolie?,drapeaux/Mongolie.png,drapeaux/Cambodge.png,drapeaux/Philippines.png,drapeaux/Venezuela.png,drapeaux/Mongolie.png,Drapeaux de pays,difficil
+Quel est le drapeau du Montenegro?,drapeaux/Albanie.png,drapeaux/Montenegro.png,drapeaux/Vietnam.png,drapeaux/Liban.png,drapeaux/Montenegro.png,Drapeaux de pays,difficil
+Quel est le drapeau de l'Ouganda?,drapeaux/Ghana.png,drapeaux/Zimbabwe.png,drapeaux/Allemagne.png,drapeaux/Ouganda.png,drapeaux/Ouganda.png,Drapeaux de pays,difficil
+Quel est le drapeau de la Republique Tcheque?,drapeaux/Republique Tcheque.png,drapeaux/Chili.png,drapeaux/Cuba.png,drapeaux/Philippines.png,drapeaux/Republique Tcheque.png,Drapeaux de pays,difficil
+Quel est le drapeau de la Serbie?,drapeaux/Cambodge.png,drapeaux/Serbie.png,drapeaux/Cuba.png,drapeaux/Croatie.png,drapeaux/Serbie.png,Drapeaux de pays,difficil
+Quel est le drapeau du Zimbabwe?,drapeaux/Ouganda.png,drapeaux/Myanmar.png,drapeaux/Zimbabwe.png,drapeaux/Ghana.png,drapeaux/Zimbabwe.png,Drapeaux de pays,difficil
+Quelle est la capitale de l'Autriche?,Vienne,Graz,Innsbruck,Salzburg,Vienne,films/series,moyenne
