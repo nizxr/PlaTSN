@@ -1,8 +1,10 @@
-#ifndef _CASSEBRIQUE_H
-#define _CASSEBRIQUE_H
 #include"Balle.h"
 #include"Planche.h"
 #include"Brique.h"
+
+#ifndef _CASSEBRIQUE_H
+#define _CASSEBRIQUE_H
+
 
 ///@brief Variables globales
 const int NB_BALLES_MAX = 5;

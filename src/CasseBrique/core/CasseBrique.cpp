@@ -1,5 +1,5 @@
 #include"CasseBrique.h"
-
+#include"Affichage.h"
 #include<stdlib.h>
 #include<math.h>
 #include<time.h>
@@ -112,4 +112,9 @@ void CasseBrique::update(){
             }
         }
     }
+}
+
+int main(void){
+    Fenetre f;
+    return 0;
 }
