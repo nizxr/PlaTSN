@@ -1,16 +1,15 @@
+#ifdef _QUIZ_H
+#define _QUIZ_H
+
+/// @brief classe quiz
 class quiz
 {
     private:
-    /* data */
+    
+
     public:
-        quiz(/* args */);
-        ~quiz();
+        /// @brief constructeur
+        quiz();
 };
 
-quiz::quiz(/* args */)
-{
-}
-
-quiz::~quiz()
-{
-}
+#endif
