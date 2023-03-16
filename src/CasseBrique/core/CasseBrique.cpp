@@ -1,5 +1,4 @@
 #include"CasseBrique.h"
-#include"Affichage.h"
 #include<stdlib.h>
 #include<math.h>
 #include<time.h>
@@ -7,8 +6,7 @@
 
 const int DIMW = 500;
 
-CasseBrique::CasseBrique(){
-    
+void CasseBrique::init(){
     nbBalles = 1;
     nbBriquesUtil = 25;
     score = 0;
@@ -38,7 +36,6 @@ CasseBrique::CasseBrique(){
             (grille[i][j].vitesse.x) = 0.3;
         }
     }
-
 }
 
 void CasseBrique::update(){
@@ -112,9 +109,4 @@ void CasseBrique::update(){
             }
         }
     }
-}
-
-int main(void){
-    Fenetre f;
-    return 0;
 }

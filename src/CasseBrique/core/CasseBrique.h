@@ -16,7 +16,7 @@ const int NB_BRIQUES_MAX = 25;
  * 
  */
 class CasseBrique{
-private:
+public:
     /// @brief Tableau de Balle qui sera utilisé pour affichés plusieurs balles.
     Balle b[NB_BALLES_MAX];
 
@@ -50,7 +50,7 @@ private:
     int posSourisX;
     int posSourisY;
 
-public:
+//public:
     /// @brief Fonction permettant de générer les briques d'une façon aléatoire pour que les stages ne soient pas identiques.
     /// @param tab_briques La grille.
     /// @param nbBriquesUtil Le nombre de Briques utilisées.
@@ -58,11 +58,19 @@ public:
     void generateur_briques(Brique tab_briques[NB_BRIQUES_MAX][NB_BRIQUES_MAX],
                                 int nbBriquesUtil, int nbBriquesVisibles);
 
-    /// @brief Constructeur par default qui servira d'initialiser le jeu
-    CasseBrique();
-    
+
+    /// @brief Initialise le casse-brique
+    void init();
+
+
     /// @brief Fonction de mises à jour de l'environement ie mouvements, collisions, gain & perte de score, destruction de briques.
     void update();
+    
+    /// @brief Constructeur par default qui servira d'initialiser le jeu
+    CasseBrique();
+
+    /// @brief Destructeur par default
+    ~CasseBrique();
 };
 
 #endif
