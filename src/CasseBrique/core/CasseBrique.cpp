@@ -6,7 +6,7 @@
 
 const int DIMW = 500;
 
-void CasseBrique::init(){
+    void CasseBrique::init(){
     nbBalles = 1;
     nbBriquesUtil = 25;
     score = 0;

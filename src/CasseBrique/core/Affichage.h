@@ -1,7 +1,9 @@
+#ifndef _AFFICHAGE_H
+#define _AFFICHAGE_H
+
 #include<SDL2/SDL.h>
 #include"Pixel.h"
 using namespace std;
-
 
 class Fenetre {
 public:
@@ -13,7 +15,7 @@ public:
 
     /// @param tab le tableau 2D de pixel
     Pixel * tab;
-    
+
     /** @brief Accesseur : récupère le pixel original de coordonnées (x,y) en vérifiant leur validité
      la formule pour passer d'un tab 2D à un tab 1D est tab[y*dimx+x]
      @return Référence du pixel des cordonnées x,y
@@ -33,3 +35,5 @@ public:
 
 
 };
+
+#endif

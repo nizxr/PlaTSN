@@ -1,30 +1,30 @@
-# Compiler settings
-EXEC_NAMES = bin/cb 
-OBJS = obj/Pixel.o
+CXXFLAGS := -Wall -ggdb
+LDFLAGS := -lSDL2 -lSDL2_image
 
-GCC = g++
-FLAGS = -Wall -ggdb
+SRC_DIR := src/CasseBrique/core
+OBJ_DIR := obj
+BIN_DIR := bin
 
-LIBS = -lSDL2 -lSDL2_image -lSDL2_image
-INCLUDE = -ISDL2
+OBJS := $(OBJ_DIR)/Pixel.o \
+        $(OBJ_DIR)/Affichage.o \
+        $(OBJ_DIR)/CasseBrique.o \
+        $(OBJ_DIR)/main.o
 
-RM = rm -rf
+$(BIN_DIR)/cb: $(OBJS)
+	$(CXX) $(LDFLAGS) $^ -o $@
 
-# Makefile settings
+$(OBJ_DIR)/Pixel.o: $(SRC_DIR)/Pixel.cpp $(SRC_DIR)/Pixel.h
+	$(CXX) $(CXXFLAGS) -c $< -o $@
 
-########################################################################
-####################### Targets beginning here #########################
-########################################################################
-all: $(EXEC_NAMES)
+$(OBJ_DIR)/Affichage.o: $(SRC_DIR)/Affichage.cpp $(SRC_DIR)/Affichage.h
+	$(CXX) $(CXXFLAGS) -c $< -o $@
 
-bin/cb: $(OBJS) obj/Affichage.o
-	$(GCC) $(FLAGS) $(OBJS) obj/Affichage.o -o bin/cb $(LIBS)
+$(OBJ_DIR)/CasseBrique.o: $(SRC_DIR)/CasseBrique.cpp $(SRC_DIR)/CasseBrique.h $(SRC_DIR)/Complex.h
+	$(CXX) $(CXXFLAGS) -c $< -o $@
 
-obj/Affichage.o: src/CasseBrique/core/Affichage.cpp src/CasseBrique/core/Pixel.h
-	$(GCC) $(FLAGS) -c src/CasseBrique/core/Affichage.cpp -o obj/Affichage.o $(INCLUDE)
+$(OBJ_DIR)/main.o: $(SRC_DIR)/main.cpp $(SRC_DIR)/CasseBrique.h
+	$(CXX) $(CXXFLAGS) -c $< -o $@
 
-obj/Pixel.o: src/CasseBrique/core/Pixel.cpp src/CasseBrique/core/Pixel.h
-	$(GCC) $(FLAGS) -c src/CasseBrique/core/Pixel.cpp -o obj/Pixel.o $(INCLUDE)
-
+.PHONY: clean
 clean:
-	$(RM) bin/* obj/*
+	rm -f $(OBJS) $(BIN_DIR)/cb
